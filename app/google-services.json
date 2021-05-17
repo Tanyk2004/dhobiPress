@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196094369843",
+    "project_id": "groupus-a3c3a",
+    "storage_bucket": "groupus-a3c3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196094369843:android:06992283278390fc1f8346",
+        "android_client_info": {
+          "package_name": "com.studynow.groupus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196094369843-q7k4mjg7sbkavt7mvkpmaig4i6d5c5ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrvyZVX-uTsnHN10Y1oZA8S1TxtUoVmjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196094369843-q7k4mjg7sbkavt7mvkpmaig4i6d5c5ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
